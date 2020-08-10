@@ -4,7 +4,7 @@
 
 <h1 align="center"> Proffy Project - NextLevelWeek #02 </h1>
 <p align="center"> 
-    Project in <i>development<i</> by <a href="https://github.com/ademirjrsantana" target="_blank">Ademir Jr</a>     
+    <i>Project in development by <a href="https://github.com/ademirjrsantana" target="_blank">Ademir Jr</a></i>     
 </p>  
 
 <h2> :computer: Web Screenshots </h2>
