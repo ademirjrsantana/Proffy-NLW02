@@ -23,10 +23,10 @@
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/guilhermecapitao/proffy-discovery
+git clone https://github.com/ademirjrsantana/Proffy-NLW02
 
 # Entrar no diretório
-cd proffy-discovery
+cd Proffy-NLW02
 
 # Baixar as dependências
 npm i
